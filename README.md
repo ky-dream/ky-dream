@@ -11,4 +11,4 @@ Hi 👋, I'm fire_heart, a cs student in ZZU 📖.
 </p>
 
 <h3 align="left">勉强说的上的技术栈blackpink：</h3>
-<p align="left"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,postgres,py" />
