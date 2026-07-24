@@ -1,10 +1,5 @@
 # Hi 👋, I'm fire_heart
-
-- 🔭 I'm currently working on **nothing**
-
-- 🌱 I'm currently learning **everything useful**
-
-- 👯 I'm looking to collaborate on **ai**
+## An cs student
 
 - 📫 How to reach me **csbkwx37@gmail.com**
 
