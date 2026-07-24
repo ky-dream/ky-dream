@@ -1,4 +1,6 @@
 # ABOVE ALL
+> 欢迎来看我的[博客](https://www.youtube.com/watch?v=dQw4w9WgXcQ),拜托了喵🙏
+
 Hi 👋, I'm fire_heart, a cs student in ZZU 📖.
 
 <p align="left">
