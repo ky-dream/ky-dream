@@ -1,7 +1,6 @@
 # ABOVE ALL
 Hi 👋, I'm fire_heart, a cs student in ZZU 📖.
 
-<h3 align="left">一些平台：</h3>
 <p align="left">
 <a href="https://github.com/ky-dream"><img src="https://img.shields.io/badge/GitHub-ky--dream-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://instagram.com/lain_ky"><img src="https://img.shields.io/badge/Instagram-lain__ky-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -10,5 +9,4 @@ Hi 👋, I'm fire_heart, a cs student in ZZU 📖.
 <a href="https://leetcode.cn/u/ky_dream/"><img src="https://img.shields.io/badge/LeetCode-ky__dream-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
-<h3 align="left">勉强说的上的技术栈blackpink：</h3>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,postgres,py" />
