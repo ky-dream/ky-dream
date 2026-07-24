@@ -9,9 +9,7 @@ Hi 👋, I'm fire_heart, a cs student in ZZU 📖.
 <a href="https://www.youtube.com/@ky_dream"><img src="https://img.shields.io/badge/YouTube-ky__dream-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,postgres,py" />
-
-
+<img src="https://skillicons.dev/icons?i=java,c,cpp,py,mysql,postgres" />
 
 # HOBBIES
 
