@@ -1,18 +1,14 @@
-# Hi 👋, I'm fire_heart
-## An cs student
+# ABOVE ALL
+Hi 👋, I'm fire_heart, a cs student in ZZU 📖.
 
-- 📫 How to reach me **csbkwx37@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">一些平台：</h3>
 <p align="left">
-<a href="https://github.com/ky-dream" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ky-dream" height="30" width="40" /></a>
-<a href="https://instagram.com/lain_ky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lain_ky" height="30" width="40" /></a>
-<a href="https://youtube.com/ky_dream" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ky_dream" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ky_dream" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ky_dream" height="30" width="40" /></a>
-<a href="https://leetcode.cn/u/ky_dream/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ky_dream" height="30" width="40" /></a>
+<a href="https://github.com/ky-dream"><img src="https://img.shields.io/badge/GitHub-ky--dream-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://instagram.com/lain_ky"><img src="https://img.shields.io/badge/Instagram-lain__ky-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.youtube.com/@ky_dream"><img src="https://img.shields.io/badge/YouTube-ky__dream-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/ky_dream"><img src="https://img.shields.io/badge/Codeforces-ky__dream-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://leetcode.cn/u/ky_dream/"><img src="https://img.shields.io/badge/LeetCode-ky__dream-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ky-dream&" alt="ky-dream" /></p>
+<h3 align="left">勉强说的上的技术栈blackpink：</h3>
+<p align="left"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></p>
