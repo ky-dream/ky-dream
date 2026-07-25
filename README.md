@@ -3,6 +3,13 @@
 
 Hi 👋, I'm fire_heart, a cs student in ZZU 📖.
 
+古法编程传承人，正在维新ing~
+
+
+
+
+
+##### 我的一些不成器的平台blackpink：
 <p align="left">
 <a href="https://github.com/ky-dream"><img src="https://img.shields.io/badge/GitHub-ky--dream-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://codeforces.com/profile/ky_dream"><img src="https://img.shields.io/badge/Codeforces-ky__dream-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
@@ -10,6 +17,9 @@ Hi 👋, I'm fire_heart, a cs student in ZZU 📖.
 <a href="https://instagram.com/lain_ky"><img src="https://img.shields.io/badge/Instagram-lain__ky-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.youtube.com/@ky_dream"><img src="https://img.shields.io/badge/YouTube-ky__dream-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
+
+
+##### 一些技术栈：
 
 <img src="https://skillicons.dev/icons?i=java,c,cpp,py,mysql,postgres" />
 
